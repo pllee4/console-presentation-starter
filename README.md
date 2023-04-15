@@ -1,6 +1,7 @@
 # Console-presentation
 
 ![master](https://github.com/pllee4/console-presentation-starter/workflows/Build/badge.svg)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pinloon)
 
 ## To build a console presentation:
 ```
