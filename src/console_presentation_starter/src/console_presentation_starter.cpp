@@ -7,9 +7,6 @@
  * Copyright (c) 2023 Pin Loon Lee (pllee4)
  */
 
-#include <memory>
-#include <string>
-
 #include "ftxui/component/component.hpp"           // for Horizontal, Renderer
 #include "ftxui/component/screen_interactive.hpp"  // for ScreenInteractive
 #include "params.hpp"
